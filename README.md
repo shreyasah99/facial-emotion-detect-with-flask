@@ -22,6 +22,6 @@ We then deployed the model on Azure as well and it was giving no error while dep
 Below is the link of our flask model on azure :
 https://flask-jatin-shreyas.azurewebsites.net/
  
-Aptfile and setup.sh are needed while deploying only on heroku.
+Aptfile and setup.sh are only needed while deploying on heroku.
 
-ReleaseLogs_38.zip and deploy.cmd are needed while deploying only on azure.
+ReleaseLogs_38.zip and deploy.cmd are only needed while deploying on azure.
