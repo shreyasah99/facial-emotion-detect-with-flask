@@ -1,4 +1,4 @@
-# Emotion detection using deep learning
+# Emotion detection using deep learning (Flask)
 
 ## Introduction
 We have  built a deep learning model which detects the real time emotions of students through a webcam so that teachers can understand if students are able to grasp the topic according to students' expressions or emotions and then deploy the model. The model is trained on the FER-2013 dataset .
