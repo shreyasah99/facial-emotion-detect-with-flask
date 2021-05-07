@@ -24,4 +24,4 @@ https://flask-jatin-shreyas.azurewebsites.net/
  
 Aptfile and setup.sh are needed while deploying only on heroku.
 
-ReleaseLogs_38.zip , deployment.txt , deploy.cmd are needed while deploying only on azure.
+ReleaseLogs_38.zip and deploy.cmd are needed while deploying only on azure.
